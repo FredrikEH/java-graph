@@ -1,0 +1,6 @@
+file:C:/Users/Dator/Documents/IntelliJ projects/Prog2ProjektGUI/europa.gif
+"Island";166.0;302.0;Sverige;443.0;225.0;Irland;173.0;58.0
+"Island";Sverige;Flyg;5
+"Island";Irland;Flyg;4
+Sverige;"Island";Flyg;5
+Irland;"Island";Flyg;4

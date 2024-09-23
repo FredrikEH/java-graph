@@ -1,0 +1,4 @@
+file:C:/Users/Dator/Documents/IntelliJ projects/Prog2ProjektGUI/europa.gif
+a;158.0;123.0;b;386.0;392.0
+a;b;w;2
+b;a;w;2
